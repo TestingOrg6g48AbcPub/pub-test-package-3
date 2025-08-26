@@ -1,5 +1,5 @@
 {
-    "name": "igorb/pub-test-package2",
+    "name": "igorb/pub-test-package3",
     "autoload": {
         "psr-4": {
             "Igorb\\PubTestPackage2\\": "src/"
